@@ -1,0 +1,4 @@
+/nodeModule
+.env
+config.bat
+node_modules
